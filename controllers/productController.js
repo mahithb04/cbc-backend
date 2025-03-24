@@ -31,6 +31,7 @@ export async function createProduct(req,res){
 
     
 }
+//Changing the code
 
 export function getProducts(req,res){
     Product.find().then(
