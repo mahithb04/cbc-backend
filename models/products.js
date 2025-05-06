@@ -17,7 +17,7 @@ const productSchema = new mongoose.Schema({
         type : Number,
         required : true
     },
-    labaledPrice : {
+    labeledPrice : {
         type : Number,
         required : true
     },
